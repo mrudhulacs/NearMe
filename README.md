@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
 ## Date:
-24-APRIL-2025
+20-03-2025
 
 ## AIM
 To develop a website to display details about the places around my house.
